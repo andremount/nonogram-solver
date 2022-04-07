@@ -6,7 +6,8 @@ Puzzle data is formatted as follows:
 ```
 puzzleData = {
   "horizontalClues": [[2], [1, 2], [8], [5], [3], [1]], 
-  "verticalClues": [[1], [1, 2], [5], [5], [3], [2], [1], [1], [1]]}
+  "verticalClues": [[1], [1, 2], [5], [5], [3], [2], [1], [1], [1]]
+  }
 ```
 It is then sent to the `solvePuzzle()` function.
 
