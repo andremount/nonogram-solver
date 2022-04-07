@@ -15,4 +15,4 @@ Set `showWork` to `True` to display each step in the console.
 Set `exportGif` to `True` to save an animated gif of the puzzle being solved in the current directory.
 
 # Sample output
-(images/bird_nonogram.gif)
+![bird nonogram output](images/bird_nonogram.gif)
